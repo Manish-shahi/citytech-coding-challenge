@@ -1,8 +1,8 @@
 # Problem: Valid Anagram
 
 ### **Examples**
-Input: `s = "listen"`, `t = "silent"` → Output: **True**
-Input: `s = "rat"`, `t = "car"` → Output: **False**
+Input: `s = "listen"`, `t = "silent"` → Output: True
+Input: `s = "rat"`, `t = "car"` → Output: False
 
 ## Logic / Approach
 
